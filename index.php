@@ -122,7 +122,7 @@ appropriate HTML list item below.
 <body>
     <main>
         <ul>
-            <li>Got Your User ID? (You created it last week)</li>
+            <li>Got Your User ID? (You created it week one)</li>
             <li>Complete Your Assignment?</li>
             <li>If so, you are ready to click submit.</li>
         </ul>
